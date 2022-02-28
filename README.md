@@ -28,11 +28,11 @@ Eu descobri o mundo da programção quando eu tinha 12 anos (novembro/dezembro d
 Simm! Não faz menor sentindo 😂!
 <br />
 
-Em 2018 eu comecei realmente estudar programação, primeiro estudei a lógica com visualG; Alguns meses dei meus primeiros passoos para aprender uma linguagem de programção, foi a queridinha  _Python_ 🐍.
+Em 2018 eu comecei realmente estudar programação, primeiro estudei a lógica com visualG; Alguns meses depois dei meus primeiros passoos para aprender uma linguagem de programação, foi a queridinha  _Python_ 🐍.
 <br />
 Ahh! Eu quase esqueci, eu tentei estudar Java, mas... 🙅‍♂️
 
-Em 2019 eu encontrei a minha _preciosa_ 😂 ❤️ e não parei de estudar-la, ***Javascript***!. Uma coisa que me motivou a aprender essa linguagem foi o evento Omnistack da Rocketseat, eu amei (e continuo) foi a stack do javascript: ***ReactJS, React Native and NodeJS***. Quando vi o poder que nos dar, a possibilidade de escrever código no Frontend e no Backend com só javascript como linguagem, fiquei sem reação! No mesmo ano comecei a procurar Como eu aprender Javascript e vi que tinha que aprender html e css e fui em busca!
+Em 2019 eu encontrei a minha _preciosa_ 😂 ❤️ e não parei de estudar-la, ***Javascript***!. Uma coisa que me motivou a aprender essa linguagem foi o evento Omnistack da Rocketseat, eu amei (e continuo) foi a stack do javascript: ***ReactJS, React Native and NodeJS***. Quando vi o poder que nos dar, a possibilidade de escrever código no Frontend e no Backend com só javascript como linguagem, fiquei sem reação! No mesmo ano comecei a procurar Como aprender Javascript e vi que tinha que estudar html e css e fui em busca!
 <br />
 <br />
 Mesmo eu estudado Javascript e React eu não conseguia sentir/ver meu crescimento, então no final de 2020 fiz uma ótimo investimento (talvez até o melhor), tornei um estudante da [JStack](https://jstack.com.br), foi a escolha certa, pois eu consegui sentir meu crescimento e o que estava faltando em entender... E tenho aprendendo muito no curso e com o professor no instagram dele.
