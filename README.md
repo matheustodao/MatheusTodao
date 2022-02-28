@@ -39,3 +39,8 @@ Mesmo eu estudado Javascript e React eu não conseguia sentir/ver meu cresciment
 
 * 💡 Fato interessante sobre mim: Gosto construir UI/UX, gosto de estudar sobre finanças, comecei a ler um livro do Sêneca (filósofo), sou estudante de inglês e muita outras coisas!
 * 🤙 Seu eu escrevi algo errado em Português ou Inglês, me diga por favor! Só entrar em contato no [Linkedin](https://linkedin.com/in/matheustodao) ou todaomatheus@hotmail.com
+
+<br />
+<br />
+
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustodao&layout=compact&theme=dracula)
