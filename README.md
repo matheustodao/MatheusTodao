@@ -16,7 +16,7 @@ In 2019 I found my programming language 😂 ❤️ and I not stop to learn it. 
 Even I studying so much Javascript and React I can't feel my growth, so I'm got at the end of 2020 great investment I join as student of course [JStack](https://jstack.com.br), for me, I made the right choice, because I can see what it was left to my grow up and I have learn so much with course and professor on his instagram.
 
 * 💡 Fun Fact: I like to build UI/UX, I like to study about finance, I started read a book of Seneca (philosopher), I'm learner English and many more 😅.
-* 🤙 If I wrote something wrong tell me, please! you can reach me in [Linkedin](https://linkedin.com/in/matheustodao) or todaomatheus@hotmail.com
+* 🤙 If I wrote something wrong tell me, please! you can reach me in [Linkedin](https://linkedin.com/in/matheustodao), [Instagram](https://instagram.com/matheustodao) or todaomatheus@hotmail.com
 
 <hr />
 
@@ -38,7 +38,7 @@ Em 2019 eu encontrei a minha _preciosa_ 😂 ❤️ e não parei de estudar-la, 
 Mesmo eu estudado Javascript e React eu não conseguia sentir/ver meu crescimento, então no final de 2020 fiz uma ótimo investimento (talvez até o melhor), tornei um estudante da [JStack](https://jstack.com.br), foi a escolha certa, pois eu consegui sentir meu crescimento e o que estava faltando em entender... E tenho aprendendo muito no curso e com o professor no instagram dele.
 
 * 💡 Fato interessante sobre mim: Gosto construir UI/UX, gosto de estudar sobre finanças, comecei a ler um livro do Sêneca (filósofo), sou estudante de inglês e muita outras coisas!
-* 🤙 Seu eu escrevi algo errado em Português ou Inglês, me diga por favor! Só entrar em contato no [Linkedin](https://linkedin.com/in/matheustodao) ou todaomatheus@hotmail.com
+* 🤙 Seu eu escrevi algo errado em Português ou Inglês, me diga por favor! Só entrar em contato no [Linkedin](https://linkedin.com/in/matheustodao), [Instagram](https://instagram.com/matheustodao) ou todaomatheus@hotmail.com
 
 <br />
 <br />
