@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @MatheusTodao 🇺🇸
+# 👋 Hi, I’m Matheus Todao 🇺🇸
 ### And I love programming ❤️!
 
 I discoveried programming world when I'm 12 year old (november or december of 2017), I wanted to know how I could built a android game and without to study programming!
@@ -20,7 +20,7 @@ Even I studying so much Javascript and React I can't feel my growth, so I'm got 
 
 <hr />
 
-# 👋 Oi, eu sou @MatheusTodao 🇧🇷
+# 👋 Oi, eu sou Matheus Todao 🇧🇷
 ### E amo programar ❤️!
 
 Eu descobri o mundo da programção quando eu tinha 12 anos (novembro/dezembro de 2017), eu queria saber como poderia criar um jogo para android sem programar!
