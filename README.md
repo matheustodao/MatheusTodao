@@ -43,4 +43,4 @@ Mesmo eu estudado Javascript e React eu não conseguia sentir/ver meu cresciment
 <br />
 <br />
 
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustodao&theme=dracula)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustodao&layout=compact&theme=dracula)
