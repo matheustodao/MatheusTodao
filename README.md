@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Matheus Todao 🇺🇸
 ### And I love programming ❤️!
 
-I discoveried programming world when I'm 12 year old (november or december of 2017), I wanted to know how I could built a android game and without to study programming!
+I discovered programming world when I'm 12 year old (november or december of 2017), I wanted to know how I could built a android game and without to study programming!
 <br />
 Yeah! I know that sounds like CRAZY 😂!
 <br />
