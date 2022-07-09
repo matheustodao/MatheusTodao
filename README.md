@@ -1,5 +1,5 @@
 # Hi, I’m Matheus Todao 👋
-> "One who believes in himself has no need to convice others" - Lao Tzu
+> One who believes in himself has no need to convice others - Lao Tzu
 <br />
 
 ## Techs
@@ -38,5 +38,11 @@
   > If want to see the [old Portfolio](https://todaomatheus.vercel.app)
 
 <br />
+
+## I believe
+> Don't waste your time stressing about things you can't change.
+> A mistake made twice is a lesson not learnt.
+> It does not matter how slowly you go as long as you don't stop. - Confucius
+> One who believes in himself has no need to convice others. - Lao Tzu
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustodao&layout=compact&theme=dracula)
