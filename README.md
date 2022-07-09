@@ -40,10 +40,10 @@
 <br />
 
 ## I believe
-> Don't waste your time stressing about things you can't change.
-> A mistake made twice is a lesson not learnt.
-> It does not matter how slowly you go as long as you don't stop. - Confucius
-> One who believes in himself has no need to convice others. - Lao Tzu
+- > Don't waste your time stressing about things you can't change.
+- > A mistake made twice is a lesson not learnt.
+- > It does not matter how slowly you go as long as you don't stop. - Confucius
+- > One who believes in himself has no need to convice others. - Lao Tzu
 
 <br />
 
