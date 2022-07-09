@@ -33,4 +33,8 @@
 
 <br />
 
+## Current projects I am working
+- [Portfolio](https://developtodaomatheus.vercel.app)
+- [Old Portfolio](https://todaomatheus.vercel.app)
+
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustodao&layout=compact&theme=dracula)
