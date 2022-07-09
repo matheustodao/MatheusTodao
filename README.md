@@ -1,5 +1,5 @@
 # Hi, I’m Matheus Todao 👋
-> Keep dreaming big and never give up!
+> "One who believes in himself has no need to convice others" - Lao Tzu
 <br />
 
 ## Techs
