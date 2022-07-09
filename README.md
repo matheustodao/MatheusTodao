@@ -14,7 +14,7 @@
 ## Learning
 - Storybook
 - NextJS
-- Graphql
+- Graphql with Apollo
 - SASS
 
 <br />
@@ -33,8 +33,10 @@
 
 <br />
 
-## Current projects I am working
-- [Portfolio](https://developtodaomatheus.vercel.app)
-- [Old Portfolio](https://todaomatheus.vercel.app)
+## Projects I'm currently working
+- [Portfolio](https://developmatheustodao.vercel.app) 
+  > If want to see the [old Portfolio](https://todaomatheus.vercel.app)
+
+<br />
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustodao&layout=compact&theme=dracula)
