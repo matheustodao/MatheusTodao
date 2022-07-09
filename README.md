@@ -1,25 +1,36 @@
-# 👋 Hi, I’m Matheus Todao 🇺🇸
+# Hi, I’m Matheus Todao 👋
+> Keep dreaming big and never give up!
 <br />
-<br />
-## Main Techs
+
+## Techs
 - React
 - Typescript
+- Javascript
 - Styled-Components
+- Design UI
+
+<br />
 
 ## Learning
 - Storybook
 - NextJS
 - Graphql
+- SASS
 
-## knowledge Techs
-- NodeJS (basic)
-- PostgreSQL (basic)
-- React Native (basic)
+<br />
+
+## Techs with basic knowledge
+- NodeJS
+- PostgreSQL
+- MySQL
+- React Native
+
+<br />
 
 ## Languages
 - Portuguese
 - English (intermediary - reading)
 
-> Keep dreaming big and never give up!
+<br />
 
 ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=matheustodao&layout=compact&theme=dracula)
