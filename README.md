@@ -7,7 +7,7 @@
 - Typescript
 - Javascript
 - Styled-Components
-- Design UI (Figma)
+- UI/UX Designer (Figma)
 
 <br />
 
