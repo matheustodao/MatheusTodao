@@ -36,10 +36,12 @@
 ## Projects I'm currently working
 - [Portfolio](https://developmatheustodao.vercel.app) 
   > If want to see the [old Portfolio](https://todaomatheus.vercel.app)
-- Digital Library (TCC)
 - Working at Squadi as freelancer
 
 <br />
+
+## Projects I worked
+- [Digital Library](https://github.com/matheustodao/digital-library)
 
 ## I believe
 - > Don't waste your time stressing about things you can't change.
