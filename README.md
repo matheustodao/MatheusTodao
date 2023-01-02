@@ -12,6 +12,7 @@
 <br />
 
 ## Learning
+- Redux
 - Storybook
 - NextJS
 - Graphql with Apollo
