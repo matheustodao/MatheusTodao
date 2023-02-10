@@ -17,6 +17,10 @@
 - NextJS
 - Graphql with Apollo
 - SASS
+- TailwindCSS
+- Clean Arch
+- Arch MVVM
+- Chakra-UI
 
 <br />
 
