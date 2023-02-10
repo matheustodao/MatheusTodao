@@ -1,5 +1,7 @@
 # Hi, I’m Matheus Todao 👋
 > One who believes in himself has no need to convice others - Lao Tzu
+- 🏫 I'm studing Higher Education Systems Analysis & Development at Fatec Americana
+- 🏫 Part of program [P-Tech](https://www.ptech.org/)
 <br />
 
 ## Techs
@@ -42,7 +44,6 @@
 - [Star+ Clone](https://github.com/matheustodao/star-plus-clone)
 - [Portfolio](https://developmatheustodao.vercel.app) 
   > If want to see the [old Portfolio](https://todaomatheus.vercel.app)
-- Working at Squadi as freelancer
 
 <br />
 
