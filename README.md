@@ -39,13 +39,15 @@
 <br />
 
 ## Projects I'm currently working
+- [Star+ Clone](https://github.com/matheustodao/star-plus-clone)
 - [Portfolio](https://developmatheustodao.vercel.app) 
   > If want to see the [old Portfolio](https://todaomatheus.vercel.app)
 - Working at Squadi as freelancer
 
 <br />
 
-## Projects I worked
+## I'm proud of
+- [Star+ Clone](https://github.com/matheustodao/star-plus-clone)
 - [Digital Library](https://github.com/matheustodao/digital-library)
 
 ## I believe
@@ -59,7 +61,8 @@
 ## Reach Me
 - [Linkedin](https://linkedin.com/in/matheustodao)
 - [Instagram](https://instagram.com/matheustodao)
-- E-mail: todaomatheus@hotmail.com
+- E-mail (main in outlook): todaomatheus@hotmail.com
+- E-mail (main in gmail): itodaomatheus@gmail.com
 
 <br />
 
