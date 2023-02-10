@@ -2,6 +2,7 @@
 > One who believes in himself has no need to convice others - Lao Tzu
 - 🏫 I'm studing Higher Education Systems Analysis & Development at Fatec Americana
 - 🏫 Part of program [P-Tech](https://www.ptech.org/)
+- 🔥 I'm Self-Education
 <br />
 
 ## Techs
