@@ -37,7 +37,7 @@
 
 ## Languages
 - Portuguese
-- English (intermediary - reading)
+- English (reading)
 
 <br />
 
