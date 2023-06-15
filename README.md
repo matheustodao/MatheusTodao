@@ -63,8 +63,8 @@
 ## Reach Me
 - [Linkedin](https://linkedin.com/in/matheustodao)
 - [Instagram](https://instagram.com/matheustodao)
-- E-mail (main in outlook): todaomatheus@hotmail.com
-- E-mail (main in gmail): itodaomatheus@gmail.com
+- E-mail (main): itodaomatheus@gmail.com
+- E-mail (secondary): todaomatheus@hotmail.com
 
 <br />
 
