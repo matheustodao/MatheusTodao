@@ -7,6 +7,7 @@
 <br />
 
 ## Techs
+- NextJS
 - React
 - Typescript
 - Javascript
@@ -18,7 +19,6 @@
 ## Learning
 - Redux
 - Storybook
-- NextJS
 - Graphql with Apollo
 - SASS
 - TailwindCSS
@@ -43,11 +43,12 @@
 <br />
 
 ## Projects I'm currently working
-- [Star+ Clone](https://github.com/matheustodao/star-plus-clone)
+- [Cine Share](https://github.com/matheustodao/cine-share)
 
 <br />
 
 ## I'm proud of
+- [Cine Share](https://github.com/matheustodao/cine-share)
 - [Star+ Clone](https://github.com/matheustodao/star-plus-clone)
 - [Digital Library](https://github.com/matheustodao/digital-library)
 
