@@ -12,25 +12,17 @@
 - Javascript
 - Styled-Components
 - UI/UX Design
+- TailwindCSS
 
 <br />
 
 ## Learning
-- Redux
-- Storybook
-- Graphql with Apollo
-- SASS
-- TailwindCSS
-- Clean Arch
-- Arch MVVM
-- Chakra-UI
+- Handlebars
+- NestJS
 
 <br />
 
 ## Techs with basic knowledge
-- NodeJS
-- PostgreSQL
-- MySQL
 - React Native
 
 <br />
