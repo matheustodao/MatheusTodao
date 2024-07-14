@@ -5,7 +5,7 @@
 - 🖌️ I'm UI/UX Design
 <br />
 
-## Techs
+## 👾 Techs
 - NextJS
 - React
 - Typescript
@@ -17,7 +17,7 @@
 
 <br />
 
-## Learning
+## 🔥 Learning
 - AWS Lambda Functions
 - NestJS
 - Serverless Framework
@@ -25,26 +25,11 @@
 
 <br />
 
-## Techs with basic knowledge
-- React Native
-
-<br />
-
 ## Languages
 - Portuguese
-- English (reading)
+- English (reading, listen)
 
 <br />
-
-## Projects I'm currently working
-- [Cine Share](https://github.com/matheustodao/cine-share)
-
-<br />
-
-## I'm proud of
-- [Cine Share](https://github.com/matheustodao/cine-share)
-- [Star+ Clone](https://github.com/matheustodao/star-plus-clone)
-- [Digital Library](https://github.com/matheustodao/digital-library)
 
 ## I believe
 - > Don't waste your time stressing about things you can't change.
