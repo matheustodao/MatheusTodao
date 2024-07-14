@@ -21,6 +21,7 @@
 - AWS Lambda Functions
 - NestJS
 - Serverless Framework
+- Ethical Hacking
 
 <br />
 
