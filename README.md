@@ -25,13 +25,13 @@
 
 <br />
 
-## Languages
+## 🎌 Languages
 - Portuguese
-- English (reading, listen)
+- English (reading, listening)
 
 <br />
 
-## I believe
+## 🕊️ I believe
 - > Don't waste your time stressing about things you can't change.
 - > A mistake made twice is a lesson not learnt.
 - > It does not matter how slowly you go as long as you don't stop. - Confucius
@@ -39,7 +39,7 @@
 
 <br />
 
-## Reach Me
+## 🗣️ Reach Me
 - [Linkedin](https://linkedin.com/in/matheustodao)
 - [Instagram](https://instagram.com/matheustodao)
 - E-mail (main): itodaomatheus@gmail.com
