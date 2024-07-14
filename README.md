@@ -13,12 +13,14 @@
 - Styled-Components
 - UI/UX Design
 - TailwindCSS
+- Pug
 
 <br />
 
 ## Learning
-- Handlebars
+- AWS Lambda Functions
 - NestJS
+- Serverless Framework
 
 <br />
 
