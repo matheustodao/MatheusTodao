@@ -19,6 +19,7 @@
 
 ## 🔥 Learning
 - AWS Lambda Functions
+- AWS DynamoDB
 - NestJS
 - Serverless Framework
 - Ethical Hacking
