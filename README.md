@@ -24,6 +24,7 @@
 - Serverless Framework
 - Ethical Hacking
 - NestJS
+- Kotlin
 
 <br />
 
