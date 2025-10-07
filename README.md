@@ -1,30 +1,28 @@
 # Hi, I’m Matheus Todao 👋
 > One who believes in himself has no need to convice others - Lao Tzu
 - 🥇 I'm work at [HVEX](https://hvex.com.br)
-- 🔥 I'm self-education
+- 🔥 I'm self-education since I was 13 years old
 - 🖌️ I'm UI/UX Design
 <br />
 
-## 👾 Techs
-- NextJS
-- React
-- Typescript
-- Javascript
-- Styled-Components
-- UI/UX Design
-- TailwindCSS
-- Pug
+## 🛠️ My Skills
 
-<br />
+### Front-End
 
-## 🔥 Learning
-- AWS Lambda Functions
-- AWS DynamoDB
-- AWS Cognito
-- Serverless Framework
-- Ethical Hacking
-- NestJS
-- Kotlin
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,next,styledcomponents,tailwind)](https://skillicons.dev)
+<br>
+
+### Backend
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,prisma,sqlite,postgres,python,express,nestjs)](https://skillicons.dev)
+<br>
+
+### Others
+
+[![My Skills](https://skillicons.dev/icons?i=git,gitlab,cypress,graphql,figma,docker,linux,dynamodb,kotlin,pug)](https://skillicons.dev)
+</div>
+
+----
 
 <br />
 
@@ -43,10 +41,9 @@
 <br />
 
 ## 🗣️ Reach Me
-- [Linkedin](https://linkedin.com/in/matheustodao)
 - [Site](https://matheustodao.com)
-- E-mail (main): itodaomatheus@gmail.com
-- E-mail (secondary): todaomatheus@hotmail.com
+- [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) - [Matheus Todao](https://linkedin.matheustodao.com)
+- [![Github](https://skillicons.dev/icons?i=github)](https://skillicons.dev) - [Matheus Todao](https://linkedin.matheustodao.com)
 
 <br />
 
